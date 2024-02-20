@@ -64,10 +64,3 @@ result_label = tk.Label(root, text="")
 result_label.grid(row=4, columnspan=3, padx=5, pady=5)
 
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
